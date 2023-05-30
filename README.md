@@ -1,7 +1,7 @@
-Project Title (1 point)
+Project Title
 Random Qoutes
 
-Project Summary (2 points)
+Project Summary
 This app allows you to scroll through Random Qoutes
 and then tweet the ones yo like
 
